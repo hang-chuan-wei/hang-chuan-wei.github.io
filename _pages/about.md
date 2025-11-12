@@ -31,7 +31,12 @@ Education
 Teaching
 ======
 
-- **[2025-Ongoing / PGTA]** Post-graduate Teaching Assistant at M.ARCH Urban Design, the Bartlett School of Architecture
-- **[2024-Ongoing / Architectural Design Skilling Tutor]** at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design techniques with Houdini and Machine Learning.
-- **[2023-2025 / Design Tutor]** at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design studio at Research Cluster 7, B-Pro.
+- **[Sep. 2025-Ongoing / PGTA](https://hang-chuan-wei.github.io/teaching/2025-UD-PGTA)** 
+Post-graduate Teaching Assistant at M.ARCH Urban Design, the Bartlett School of Architecture
+
+- **[Sep. 2024-Ongoing / Architectural Design Skilling Tutor](https://hang-chuan-wei.github.io/teaching/2023-UCL-AD-Skilling)** 
+at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design techniques with Houdini and Machine Learning.
+
+- **[Sep. 2023-Oct. 2025 / Design Tutor](https://hang-chuan-wei.github.io/teaching/2023-AD-RC7)** 
+at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design studio at Research Cluster 7, B-Pro.
 
