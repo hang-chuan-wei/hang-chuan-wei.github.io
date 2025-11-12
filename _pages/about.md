@@ -16,9 +16,9 @@ I propose my thesis as a design interface carries attempts to bring together mic
 News
 ======
 
-- **[July. 2025]** Our paper about Environmental-driven Fabrication presented in CAAD Futures 2025 at Hong Kong University.
-- **[July. 2025]** I give a talk about Probiotic Modelling at School of Design, SUSTech in Shenzhen.
-- **[June. 2025]** We present the prototype of Probiotic Intervention at London Design Biennale 2025.
+- **[Jul. 2025]** Our paper about Environmental-driven Fabrication presented in CAAD Futures 2025 at Hong Kong University.
+- **[Jul. 2025]** I give a talk about Probiotic Modelling at School of Design, SUSTech in Shenzhen.
+- **[Jun. 2025]** We present the prototype of Probiotic Intervention at London Design Biennale 2025.
 - **[May. 2025]** We present our research project about Probiotic Intervention at Towards Integrative Design Symposium at Innsbruck University.
 
 Education
@@ -32,5 +32,6 @@ Teaching
 ======
 
 - **[2025-Ongoing / PGTA]** Post-graduate Teaching Assistant at M.ARCH Urban Design, the Bartlett School of Architecture
-- **[2023-Ongoing / Digital Skill Tutor]** at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design techniques with Houdini and Machine Learning.
+- **[2024-Ongoing / Architectural Design Skilling Tutor]** at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design techniques with Houdini and Machine Learning.
+- **[2023-2025 / Design Tutor]** at M.ARCH Architectural Design the Bartlett School of Architecture, UCL. Teaching digital design studio at Research Cluster 7, B-Pro.
 
