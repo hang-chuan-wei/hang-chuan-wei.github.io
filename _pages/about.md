@@ -15,7 +15,9 @@ I frame the thesis as a design interface that brings together microbiology and t
 News
 ======
 
-- **[Jul. 2025]** Our paper about Environmental-driven Fabrication presented in CAAD Futures 2025 at Hong Kong University.
+- [**[Oct. 2025]** Instructed student project - B.L.U.R. is awarded Gold Medal at Bartlett Autumn show.](https://autumn2025.bartlettarchucl.com/ad-rc7-biospatial-tending/rc7-project-2-b-l-u-r)
+- [**[Sep. 2025]** I start work as PGTA in M.Arch Urban Design, at UCL.](https://hang-chuan-wei.github.io/teaching/2025-UD-PGTA)
+- [**[Jul. 2025]** Our paper about Environmental-driven Fabrication presented in CAAD Futures 2025 at Hong Kong University.](https://hang-chuan-wei.github.io/publication/2025-07-01-envi-driven-making)
 - **[Jul. 2025]** I give a talk about Probiotic Modelling at School of Design, SUSTech in Shenzhen.
 - **[Jun. 2025]** We present the prototype of Probiotic Intervention at London Design Biennale 2025.
 - **[May. 2025]** We present our research project about Probiotic Intervention at Towards Integrative Design Symposium at Innsbruck University.
