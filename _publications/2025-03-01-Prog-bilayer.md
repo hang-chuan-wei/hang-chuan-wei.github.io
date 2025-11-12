@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-03-01-Prog-bilayer
 excerpt: 'The study investigates the impact of macroscale porosity on deformation in 4D-printed hygromorphic bilayer structures, focusing on applications in building envelopes.'
-date: 2022-03-01
+date: 2025-03-01
 venue: 'CAADRIA 2025, Tokyo University'
 slidesurl:
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10206903/'
