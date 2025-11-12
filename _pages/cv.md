@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **[Doctor of Philosophy - Ph.D.]** Architectural Design, the Bartlett School of Architecture, University College London (UCL), London, UK (2023 - 2027 Expected)
+- **[Master of Architecture - M.ARCH]** Architectural Design, B-Pro, the Bartlett School of Architecture, University College London (UCL), London, UK (2021 - 2022)
+- **[Bachelor of Architecture - B.ARCH]** Architecture, Zhejiang University, Hangzhou, China (2016 - 2021)
 
 Work experience
 ======
