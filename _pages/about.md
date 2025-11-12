@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 I'm a Ph.D candidate at [the Bartlett School of Architecture, UCL](https://www.ucl.ac.uk/bartlett/architecture/people/mphilphd-students/architectural-design-architectural-urban-history-theory-students/hangchuan-wei). 
-My research interests are in probiotic modelling, using digital design and fabrication to intervene the indoor microbiome with architectural design. 
-I am especially interested in how the environmental behaviours can be treated as medium to help interpreting, visualising and integrating with the invisible microbiome. 
+My research focuses on probiotic modelling—using digital design and fabrication to shape indoor microbiomes through architectural design. I treat environmental behaviours (such as airflow and thermal) as a medium for interpreting, visualising and integrating the otherwise invisible microbiome. 
 
-I propose my thesis as a design interface carries attempts to bring together microbiology and the built environment, for a holobiont future. My Ph.D. supervisors are [Dr. Marjan Colletti](https://profiles.ucl.ac.uk/41-marjan-colletti) and [Dr. Sean Nair](https://profiles.ucl.ac.uk/4683-sean-nair), and is funded by [EPSRC project](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/projects/2228bd1218.html) with [Richard Beckett](https://profiles.ucl.ac.uk/33584-richard-beckett) as PI. My master's degree supervisor is Richard Beckett also at UCL, and bachelor's degree supervisors are [Dr. Jindong Wu](https://person.zju.edu.cn/jdgreen) and Fan Chen at [Zhejiang University](http://www.ccea.zju.edu.cn/ts/list.htm).
+I frame the thesis as a design interface that brings together microbiology and the built environment toward a holobiont future. My Ph.D. supervisors are [Dr. Marjan Colletti](https://profiles.ucl.ac.uk/41-marjan-colletti) and [Dr. Sean Nair](https://profiles.ucl.ac.uk/4683-sean-nair). The work is supported by an [EPSRC-funded project](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/projects/2228bd1218.html) led by [Richard Beckett](https://profiles.ucl.ac.uk/33584-richard-beckett) (PI). My master's degree supervisor was Richard Beckett at UCL, and bachelor's degree supervisors were [Dr. Jindong Wu](https://person.zju.edu.cn/jdgreen) and Fan Chen at [Zhejiang University](http://www.ccea.zju.edu.cn/ts/list.htm).
 
 News
 ======
