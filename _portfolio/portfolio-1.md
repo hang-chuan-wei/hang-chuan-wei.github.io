@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Probiotic Intervention at Living Assembly Pavilion, London Design Biennale 2025"
+excerpt: "Prototype of Probiotic Intervention at the London Design Biennale 2025.<br/><img src='/images/LDB_P1.jpg'>"
 collection: portfolio
 ---
 
