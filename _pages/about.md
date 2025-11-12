@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a Ph.D candidate at [the Bartlett School of Architecture, UCL](https://www.ucl.ac.uk/bartlett/architecture/people/mphilphd-students/architectural-design-architectural-urban-history-theory-students/hangchuan-wei). 
+My research interests are in probiotic modelling, using digital design and fabrication to intervene the indoor microbiome with architectural design. 
+I am especially interested in how the environmental behaviours can be treated as medium to help interpreting, visualising and integrating with the invisible microbiome. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I propose my thesis as a design interface carries attempts to bring together microbiology and the built environment, for a holobiont future. My Ph.D. supervisors are [Dr. Marjan Colletti](https://profiles.ucl.ac.uk/41-marjan-colletti) and [Dr. Sean Nair](https://profiles.ucl.ac.uk/4683-sean-nair), and funded by [EPSRC project](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/projects/2228bd1218.html) with [Richard Beckett](https://profiles.ucl.ac.uk/33584-richard-beckett) as PI. My master's degree supervisor is Richard Beckett also at UCL, and bachelor's degree supervisors are [Dr. Jindong Wu](https://person.zju.edu.cn/jdgreen) and Fan Chen at [Zhejiang University](http://www.ccea.zju.edu.cn/ts/list.htm).
 
 A data-driven personal website
 ======
