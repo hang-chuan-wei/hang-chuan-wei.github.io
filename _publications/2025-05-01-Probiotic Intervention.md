@@ -7,7 +7,7 @@ excerpt: 'this study integrates computational design methods to facilitates the 
 date: 2025-05-01
 venue: 'Towards Integrative Design Symposium, Innsbruck University 2025'
 slidesurl: 
-paperurl: 
+paperurl: "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6852461d3ba0887c331fdcf1/original/probiotic-design-interventions-for-the-indoor-microbiome.pdf"
 citation: 'Wei, H., Scott, W., Hoenerloh, A., Leyton Dominguez, A., Nair, S., & Beckett, R. (2025). Probiotic Design Interventions for The Indoor Microbiome. Cambridge Open Engage. doi:10.33774/coe-2025-pzt7t-v2 This content is a preprint and has not been peer-reviewed.'
 ---
 
@@ -29,4 +29,4 @@ Speed, C., & Oberlander, J. (2016). Designing from, with and by Data: Introducin
 
 
 
-**[Keywords]: Microbiome of the Built Environment | Computational Design | Biodesign | Digital Fabrication | Data-driven Design
+**[Keywords]: Microbiome of the Built Environment, Computational Design, Biodesign, Digital Fabrication, Data-driven Design
