@@ -1,6 +1,6 @@
 ---
 title: "Biohealer.ai"
-excerpt: "Master thesis project - Biohealer.ai <br/><img src='/images/2022_BiohealerAI/Cover.png'>"
+excerpt: "Master thesis project - Biohealer.ai, 2022 <br/><img src='/images/2022_BiohealerAI/Cover.png'>"
 collection: portfolio
 ---
 **Design:** Hangchuan Wei, Yuqian Gao, Xiaoying Fu, & Yuhan Wu, instructed by Richard Beckett
