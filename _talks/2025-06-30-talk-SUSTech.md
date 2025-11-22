@@ -8,4 +8,4 @@ date: 2025-06-30
 location: "Shenzhen, China"
 ---
 
-<img src='/images/talks/250630_SUSTech.JPG' width='300'>
+<img src='/images/talks/250630_SUSTech.JPG'>
