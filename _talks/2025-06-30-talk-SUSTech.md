@@ -8,4 +8,5 @@ date: 2025-06-30
 location: "Shenzhen, China"
 ---
 I was invited by Prof. Christiane M. Herr (Candy) to give a talk about my PhD research and discuss with members from, Future Ecologies Research group at Southern University of Science and Technology (SUSTech), Shenzhen.
+
 <img src='/images/talks/250630_SUSTech.JPG'>

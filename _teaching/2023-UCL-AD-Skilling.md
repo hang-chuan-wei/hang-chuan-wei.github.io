@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "London, UK"
 ---
 
-Taught M.Arch Architectural Design, a postgraduate course with 16 students, covering the following topics: Generative Design in Houdini, Machine Learning, Digital Architecture.
+Teaching M.Arch Architectural Design, a postgraduate course with 16 students, covering the following topics: Generative Design in Houdini, Machine Learning, Digital Architecture.
