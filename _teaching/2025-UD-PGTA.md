@@ -1,5 +1,5 @@
 ---
-title: "Postgraduate Teaching Assistant"
+title: "Ongoing Postgraduate Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2025-UD-PGTA
