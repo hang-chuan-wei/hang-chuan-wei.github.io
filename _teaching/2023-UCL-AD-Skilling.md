@@ -1,5 +1,5 @@
 ---
-title: "Ongoing Architectural Design Skilling Tutor"
+title: "Ongoing - Architectural Design Skilling Tutor"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-UCL-AD-Skilling
