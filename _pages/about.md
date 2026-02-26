@@ -10,11 +10,12 @@ redirect_from:
 I'm a PhD candidate at [the Bartlett School of Architecture, UCL](https://www.ucl.ac.uk/bartlett/architecture/people/mphilphd-students/architectural-design-architectural-urban-history-theory-students/hangchuan-wei). 
 My research focuses on probiotic modelling, using digital design and fabrication to shape indoor microbiomes through architectural design. I treat environmental behaviours (such as airflow and thermal) as a medium for interpreting, visualising and integrating the otherwise invisible microbiome in the built environment. 
 
-I position my thesis as a design interface that connects microbiology and architecture, aiming toward a holobiont future. My PhD is supervised by [Dr. Marjan Colletti](https://profiles.ucl.ac.uk/41-marjan-colletti) and [Dr. Sean Nair](https://profiles.ucl.ac.uk/4683-sean-nair), and is supported by an [EPSRC-funded project](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/projects/2228bd1218.html) led by [Richard Beckett](https://profiles.ucl.ac.uk/33584-richard-beckett) (PI). Previously, I completed my master's degree under the supervison of Richard Beckett at UCL, and bachelor's degree under [Dr. Jindong Wu](https://person.zju.edu.cn/jdgreen) and Fan Chen at [Zhejiang University](http://www.ccea.zju.edu.cn/ts/list.htm).
+I position my thesis as a design interface that connects microbiology and architecture, aiming toward a holobiont future. My PhD is supervised by [Dr. Marjan Colletti](https://profiles.ucl.ac.uk/41-marjan-colletti) and [Dr. Sean Nair](https://profiles.ucl.ac.uk/4683-sean-nair), and is supported by an [EPSRC-funded project](https://ucl-epsrc-dtp.github.io/2023-24-project-catalogue/projects/2228bd1218.html) led by [Richard Beckett](https://profiles.ucl.ac.uk/33584-richard-beckett) (PI). Previously, I completed my master's degree under the supervision of Richard Beckett at UCL, and bachelor's degree under [Dr. Jindong Wu](https://person.zju.edu.cn/jdgreen) and Fan Chen at [Zhejiang University](http://www.ccea.zju.edu.cn/ts/list.htm).
 
 News
 ======
 
+- **[Feb. 2026]** I am awarded the [GREENIN MINI Fellowship funded by EPSRC](https://www.greenin.uk/), will conduct short term research hosted at the Global Centre for Clean Air Research (GCARE), University of Surrey.
 - [**[Oct. 2025]** Instructed student project - B.L.U.R. is awarded Gold Medal at Bartlett Autumn show.](https://autumn2025.bartlettarchucl.com/ad-rc7-biospatial-tending/rc7-project-2-b-l-u-r)
 - [**[Sep. 2025]** I start work as PGTA in M.Arch Urban Design, at UCL.](https://hang-chuan-wei.github.io/teaching/2025-UD-PGTA)
 - [**[Jul. 2025]** Our paper about Environmental-driven Fabrication presented in CAAD Futures 2025 at Hong Kong University.](https://hang-chuan-wei.github.io/publication/2025-07-01-envi-driven-making)
@@ -27,7 +28,15 @@ Education
 
 - **[Doctor of Philosophy - Ph.D.]** Architectural Design, the Bartlett School of Architecture, University College London (UCL), London, UK (2023 - 2027 Expected)
 - **[Master of Architecture - M.ARCH]** Architectural Design, B-Pro, the Bartlett School of Architecture, University College London (UCL), London, UK (2021 - 2022)
-- **[Bachelor of Architecture - B.ARCH]** Architecture, Zhejiang University, Hangzhou, China (2016 - 2021)
+- **[Bachelor of Architecture - B.ARCH]** Architecture, Zhejiang University (ZJU), Hangzhou, China (2016 - 2021)
+
+Awards and Scholarship
+======
+
+- **[Feb. 2026]** EPSRC GREENIN Mini-Fellowship Grant
+- **[Sep. 2023]** UCL EPSRC DTP Research Studentship
+- **[Sep. 2023]** UCL ISAD Tuition Fee Support Award
+- **[Oct. 2022]** Silver Medal of B-Pro Show 2022
 
 Teaching
 ======
