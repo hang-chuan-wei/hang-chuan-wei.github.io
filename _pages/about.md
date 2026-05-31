@@ -20,12 +20,6 @@ News
 - [**[Apr. 2026]** I will co-instruct Workshop A04: *Sequenced Robotic Toolpaths* at CAADRIA 2026, NYCU, Taiwan, with Celso Urroz (FAU) and Heidy Sekardini (UI).](https://hang-chuan-wei.github.io/teaching/2026-CAADRIA-workshop)
 - **[Mar. 2026]** I will join the *AD Biodesign in Architecture* (Vol. 96.1) launch panel at the Bartlett School of Architecture with Rachel Armstrong and Richard Beckett.
 - **[Feb. 2026]** I am awarded the [GREENIN Mini-Fellowship funded by EPSRC](https://www.greenin.uk/), and will conduct short-term research hosted at the Global Centre for Clean Air Research (GCARE), University of Surrey.
-- [**[Oct. 2025]** Instructed student project B.L.U.R. is awarded the Gold Medal at the Bartlett Autumn Show 2025.](https://autumn2025.bartlettarchucl.com/ad-rc7-biospatial-tending/rc7-project-2-b-l-u-r)
-- [**[Sep. 2025]** I start work as PGTA in M.Arch Urban Design at UCL.](https://hang-chuan-wei.github.io/teaching/2025-UD-PGTA)
-- [**[Jul. 2025]** Our paper on Environmental-driven Making is presented at CAAD Futures 2025, Hong Kong University.](https://hang-chuan-wei.github.io/publication/2025-07-01-envi-driven-making)
-- **[Jun. 2025]** *Living Assembly Pavilion: Probiotic Intervention* receives a **Special Mention** at the London Design Biennale 2025.
-- **[Jun. 2025]** I give a talk on Probiotic Modelling at the School of Design, SUSTech, Shenzhen.
-- **[May 2025]** We present our research on Probiotic Intervention at the Towards Integrative Design Symposium, University of Innsbruck.
 
 Education
 ======
