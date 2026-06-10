@@ -121,9 +121,10 @@
   (bluesky, $bluesky-color),
   (facebook, $facebook-color),
   (google-plus, $google-plus-color),
+  (instagram, $instagram-color),
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
-  (twitter, $twitter-color); 
+  (twitter, $twitter-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
